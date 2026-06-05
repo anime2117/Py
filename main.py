@@ -123,7 +123,6 @@ async def set_language(call: types.CallbackQuery):
         print(f"Error updating message: {e}")
 
 # ---- ভেরিফিকেশন ও গ্রুপে অ্যাড করার লজিক (আপডেট করা) ----
-@dp.callback_query_handler(text="verify_user")
 async def verify_user_callback(call: types.CallbackQuery):
     not_joined = await check_user_joined(call.from_user.id)
     
