@@ -12,12 +12,14 @@ LANG_TEXT = {
         'success_text': "✅ <b>ভেরিফিকেশন সফল হয়েছে!</b>\n\nধন্যবাদ আমাদের চ্যানেলগুলোতে জয়েন করার জন্য। এখন নিচের বাটনটি ক্লিক করে বোটটিকে আপনার গ্রুপে যুক্ত করুন।",
         'verify': '✅ জয়েন করেছি (Verify)',
         'channels': 'আমাদের অফিসিয়াল চ্যানেলগুলোতে জয়েন করুন:'
+        'welcome_msg': "✨ <b>স্বাগতম!</b>\n\nএই গ্রুপে লিংক বা ইউজারনেম শেয়ার করা সম্পূর্ণ নিষিদ্ধ। অনুগ্রহ করে নিয়ম মেনে চলুন।"
     },
     'en': {
         'verify_alert': "⚠️ Oops!\n\nYou haven't joined all channels yet. Please join all channels and try again.",
         'success_text': "✅ <b>Verification Successful!</b>\n\nThank you for joining our channels. Now click the button below to add the bot to your group.",
         'verify': '✅ I have joined',
         'channels': 'Please join our official channels:'
+        'welcome_msg': "✨ <b>Welcome!</b>\n\nSharing links or usernames in this group is strictly prohibited. Please follow the rules."
     }
 }
 
