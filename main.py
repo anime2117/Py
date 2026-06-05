@@ -21,6 +21,7 @@ LANG_TEXT = {
         'channels': 'Please join our official channels:',  # <--- এখানে কমা যোগ করো
         'welcome_msg': "✨ <b>Welcome!</b>\n\nSharing links or usernames in this group is strictly prohibited. Please follow the rules."
     }
+} #
 
 # ---- ⚙️ বোট কনফিগারেশন ----
 API_TOKEN = '8709224461:AAEiDd1tQ20ql0teegS0WTR_MWeJymNJDDQ'  # এখানে আপনার আসল বোট টোকেনটি বসান
